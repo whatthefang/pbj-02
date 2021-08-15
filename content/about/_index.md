@@ -6,4 +6,8 @@ author_image: images/about/author.jpg
 author_signature: images/about/signature.png
 
 ---
-right about now
+Red-vs-Blue-02
+
+Series of 10 images all based on a single 360 image #2
+
+Art, photography, digital, 360
